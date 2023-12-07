@@ -8,7 +8,7 @@ What is a Neural Network ?
 Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
 
 Image:
-
+Source IBM(https://www.ibm.com/topics/neural-networks)
 ![image](https://github.com/prabhintern/Neural_Network_with_Pytorch/assets/141141575/661da73a-e14a-4c2e-bad0-c9682649a3c2)
 
 
