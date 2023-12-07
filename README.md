@@ -9,5 +9,6 @@ Neural networks, also known as artificial neural networks (ANNs) or simulated ne
 
 Image:
 
-![gij](https://github.com/prabhintern/Neural_Network_with_Pytorch/assets/141141575/82b5efe9-6036-4484-b1ca-7f08dc1ffeb3)
+![image](https://github.com/prabhintern/Neural_Network_with_Pytorch/assets/141141575/661da73a-e14a-4c2e-bad0-c9682649a3c2)
+
 
