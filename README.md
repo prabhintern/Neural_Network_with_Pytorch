@@ -7,7 +7,7 @@ PyTorch is an open source machine learning (ML) framework based on the Python pr
 What is a Neural Network ?
 Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
 
-Image of a Neural Network:
-Source: DataCamp
-![image](https://github.com/prabhintern/Neural_Network_with_Pytorch/assets/141141575/090a96cf-1689-414e-a664-c143834cf346)
+Image:
+
+![gij](https://github.com/prabhintern/Neural_Network_with_Pytorch/assets/141141575/82b5efe9-6036-4484-b1ca-7f08dc1ffeb3)
 
